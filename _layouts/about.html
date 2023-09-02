@@ -41,6 +41,25 @@ layout: default
             {{ content }}
           </div>
 
+
+          <!-- prueba 
+          {%- for p in site.pages -%}
+            {%- if p.nav and p.autogen == nil -%}
+              {{ p.title }}
+            {%- endif -%}
+          {% endfor -%}
+          --> 
+
+
+          <br><br>
+
+          <p> <b> Support</b> <br>
+          - ISF Grant 2023-2027 <br>
+          - BGU Data Science Research Grant, 2022 and 2034 (with Dr. Oren Freifeld) <br>          
+          </p>
+
+          <br><br>
+
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
