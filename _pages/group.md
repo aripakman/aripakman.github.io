@@ -14,7 +14,7 @@ nav_order: 5
 * Amit Levin 
 * Lior Kreimer (joint with Dr. Yakir Berchenko)
 * Nir Sorani (joint with Prof. Oren Freifeld)
-* Noam Salti (joint with Prof. Zohar Yakhini)
+* Meitar Chalfon (joint with Prof. Anat Milo)
 
 *PhD Students*
 * Itamar Wallwater (joint with Prof. Anat Milo and Prof. Yonatan Dubi)
