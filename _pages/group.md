@@ -15,6 +15,7 @@ nav_order: 5
 * Lior Kreimer (joint with Dr. Yakir Berchenko)
 * Nir Sorani (joint with Prof. Oren Freifeld)
 * Meitar Chalfon (joint with Prof. Anat Milo)
+* Jacob Maimon
 
 *PhD Students*
 * Itamar Wallwater (joint with Prof. Anat Milo and Prof. Yonatan Dubi)
