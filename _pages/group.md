@@ -16,10 +16,15 @@ nav_order: 5
 * Nir Sorani (joint with Prof. Oren Freifeld)
 * Meitar Chalfon (joint with Prof. Anat Milo)
 * Jacob Maimon
+* Yonadav Leibowitz 
+
 
 *PhD Students*
 * Itamar Wallwater (joint with Prof. Anat Milo and Prof. Yonatan Dubi)
-* Irit Tohamy (joint with Prof. Oren Freifeld)
 
+
+
+*Alumni*
+* Irit Chelly, PhD student (joint with Prof. Oren Freifeld). Next: Senior Applied Researcher at Wix
 
 
