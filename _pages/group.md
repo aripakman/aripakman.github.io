@@ -2,7 +2,7 @@
 layout: page
 permalink: /group/
 title: group
-description: Current members of the Probabilistic Machine Learning Group
+description: Members of the Probabilistic Machine Learning Group
 nav: true
 nav_order: 5
 ---
