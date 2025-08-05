@@ -17,11 +17,15 @@ nav_order: 5
 * Meitar Chalfon (joint with Prof. Anat Milo)
 * Jacob Maimon
 * Yonadav Leibowitz 
+* Ohad Sheelo (joint with Dr. Tal Golan)
+* Leah Rosen 
+* Boaz Shmueli
+
 
 
 *PhD Students*
 * Itamar Wallwater (joint with Prof. Anat Milo and Prof. Yonatan Dubi)
-
+* Don Shaked 
 
 
 *Alumni*
