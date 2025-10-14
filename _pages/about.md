@@ -19,6 +19,8 @@ social: true  # includes social icons at the bottom of the page
 I am a Senior Lecturer (Assistant Professor) in the [IEM Department](https://in.bgu.ac.il/en/engn/iem/) at Ben-Gurion University of the Negev in Israel. 
 I work on theoretical and applied probabilistic machine learning. 
 
+---
+*Openings:* I am looking for highly motivated PhD students. 
  
 
 
