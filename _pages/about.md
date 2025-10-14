@@ -20,7 +20,7 @@ I am a Senior Lecturer (Assistant Professor) in the [IEM Department](https://in.
 I work on theoretical and applied probabilistic machine learning. 
 
 ---
-*Openings:* I am looking for highly motivated PhD students. 
+**Openings:** I am looking for highly motivated PhD students. 
  
 
 
