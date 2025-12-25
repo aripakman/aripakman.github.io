@@ -10,7 +10,6 @@ nav_order: 5
 *MSc Students*
 
 * Tsoof Bar Or (joint with Prof. Anat Milo)
-* Yarden Cohen (joint with Prof. Anat Milo)
 * Amit Levin 
 * Lior Kreimer (joint with Dr. Yakir Berchenko)
 * Nir Sorani (joint with Prof. Oren Freifeld)
@@ -29,6 +28,7 @@ nav_order: 5
 
 
 *Alumni*
-* Irit Chelly, PhD student (joint with Prof. Oren Freifeld). Next: Senior Applied Researcher at Wix
+* Irit Chelly, PhD (joint with Prof. Oren Freifeld)
+* Yarden Cohen, MSc (joint with Prof. Anat Milo)
 
 
