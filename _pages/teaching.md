@@ -7,6 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-* Introduction to Deep Learning 
-* Introduction to Probability 
+* Deep Learning (Graduate)
+* Probability (Undergraduate)
 
