@@ -12,11 +12,12 @@ nav_order: 5
 * Tsoof Bar Or (joint with Prof. Anat Milo)
 * Meitar Chalfon (joint with Prof. Anat Milo)
 * Maayan Ohayon (joint with Prof. Anat Milo)
+* Leah Rosen (joint with Prof. Anat Milo)
 * Jacob Maimon
 * Yonadav Leibowitz 
 * Ohad Sheelo (joint with Dr. Tal Golan)
-* Leah Rosen (joint with Prof. Anat Milo)
 * Boaz Shmueli
+* Roni Miller
 
 
 
