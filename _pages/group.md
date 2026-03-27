@@ -15,7 +15,7 @@ nav_order: 5
 * Jacob Maimon
 * Yonadav Leibowitz 
 * Ohad Sheelo (joint with Dr. Tal Golan)
-* Leah Rosen 
+* Leah Rosen (joint with Prof. Anat Milo)
 * Boaz Shmueli
 
 
