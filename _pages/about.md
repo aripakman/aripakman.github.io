@@ -16,8 +16,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a Senior Lecturer (Assistant Professor) in the [IEM Department](https://in.bgu.ac.il/en/engn/iem/) at Ben-Gurion University of the Negev in Israel. 
-I work on theoretical and applied probabilistic machine learning. 
+I am a Senior Lecturer (Assistant Professor) in the [IEM Department](https://in.bgu.ac.il/en/engn/iem/) at Ben-Gurion University of the Negev in Israel. I received my PhD in Physics from the Hebrew University of Jerusalem. My research is in deep learning and probabilistic machine learning, with a focus on Bayesian methods, Monte Carlo sampling, and amortized inference, with applications ranging from computational chemistry to neuroscience.
+
+
 
 ---
 **Openings:** I am looking for highly motivated PhD students. 
