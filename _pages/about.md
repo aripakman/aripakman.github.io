@@ -23,6 +23,13 @@ I am a Senior Lecturer (Assistant Professor) in the [IEM Department](https://in.
 ---
 **Openings:** I am looking for highly motivated PhD students. 
  
+<p> <b> Support</b> <br>
+- NSF-BSF Grant 2026-2030 <br>
+- Israel Ministry of Innovation, Science & Technology, Israel-France Collaboration Grant, 2025-2028 <br>
+- ISF Grant 2023-2027 <br>
+- BGU Data Science Research Grant, 2022 and 2023 (both with Prof. Oren Freifeld) <br>
+</p>
+
 
 
 <!--- 
