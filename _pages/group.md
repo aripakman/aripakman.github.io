@@ -18,7 +18,7 @@ nav_order: 5
 * Ohad Sheelo (joint with Dr. Tal Golan)
 * Boaz Shmueli
 * Roni Miller
-* Yael Zorea (joint with Prof. Anat Milo)
+* Yael Zorea (joint with Prof. Oren Freifeld)
 
 
 *PhD Students*
