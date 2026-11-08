@@ -10,7 +10,7 @@ nav_order: 5
 *MSc Students*
 
 
-* Meitar Chalfon (joint with Prof. Anat Milo)
+
 * Maayan Ohayon (joint with Prof. Anat Milo)
 * Leah Rosen (joint with Prof. Anat Milo)
 * Jacob Maimon
@@ -18,7 +18,7 @@ nav_order: 5
 * Ohad Sheelo (joint with Dr. Tal Golan)
 * Boaz Shmueli
 * Roni Miller
-
+* Yael Zorea (joint with Prof. Anat Milo)
 
 
 *PhD Students*
@@ -36,5 +36,5 @@ nav_order: 5
 * Amit Levin, MSc, 2026
 * Lior Kreimer, MSc, 2026 (joint with Dr. Yakir Berchenko)
 * Nir Sorani, MSc, 2026 (joint with Prof. Oren Freifeld)
-
+* Meitar Chalfon, MSc, 2026 (joint with Prof. Anat Milo)
 
